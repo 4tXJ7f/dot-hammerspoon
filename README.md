@@ -1,1 +1,1 @@
-# hammerspoon-config
+# Hammerspoon configuration
